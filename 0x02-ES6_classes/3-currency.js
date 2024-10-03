@@ -5,8 +5,8 @@ export default class Currency {
   /**
    * Creates a new @see {@link Currency}
    *
-   * @param {string} code -
-   * @param {string} name
+   * @param {string} code - the code of the currency
+   * @param {string} name - the name of the currency
    */
   constructor(code, name) {
     this.code = code;
