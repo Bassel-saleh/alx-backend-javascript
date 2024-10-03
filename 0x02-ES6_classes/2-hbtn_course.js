@@ -3,6 +3,7 @@
  */
 export default class ClassRoom {
   /**
+   * Creates a new @see {@link HolbertonCourse}
    *
    * @param {String} name - the name of the course
    * @param {Number} length - How long the course is (in months)
