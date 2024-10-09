@@ -4,4 +4,5 @@
 * 0x01. ES6 Promises
 * 0x02. ES6 classes
 * 0x03. ES6 data manipulation
+* 0x04. Typescript
 ##### Have fun learning
